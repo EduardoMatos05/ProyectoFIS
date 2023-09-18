@@ -39,7 +39,7 @@ se dividió el trabajo de comparar en estas partes:
 - actividades o tareas específicas que promuevan las competencias de IS - **Mauricio**
 -Áreas de oportunidad/desventaja - **Pablo**
 
-Se asigno una persona por área, exceptuando la de la malla curricular, pues consideramos que es la mas extensa e importante
+Se asigno una persona por parte, exceptuando la de la malla curricular, pues consideramos que es la más extensa e importante
 
 Luego se creo un documento de Word 365 para llenar la tabla de la descripción:
 
