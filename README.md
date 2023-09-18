@@ -35,7 +35,7 @@ se dividió el trabajo de comparar en estas partes:
 
 - Malla curricular - **Lexus y Matos**
 - ventajas en conocimientos técnicos - **Rodrigo**
-- videncia de la promoción de habilidades técnicas/blandas respecto al programa de estudio - **Eduardo**
+- videncia de la promoción de habilidades técnicas/blandas respecto al programa de estudio - **Eduardo y Braulio**
 - actividades o tareas específicas que promuevan las competencias de IS - **Mauricio**
 -Áreas de oportunidad/desventaja - **Pablo**
 
