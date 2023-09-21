@@ -1,5 +1,7 @@
 ## Acerca de
 
+|foto| info|
+|--|--|
 |edu | |
 |mat | |
 |lex | |
