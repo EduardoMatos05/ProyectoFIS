@@ -1,6 +1,6 @@
 ## Tabla de competencias
 
-| genéricas | Específicas |
+| Genéricas | Específicas |
 |--|--|
 | 1 | 1 |
 | 2 | 2 |
