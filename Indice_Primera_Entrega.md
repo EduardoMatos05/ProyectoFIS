@@ -15,7 +15,7 @@
     -   [Artefactos](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/Requisitos/Artefactos.md)
     
 
-4.  Tabla competencias genéricas y específicas
+4.  [Tabla competencias genéricas y específicas](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/tabla_de_competencias.md)
     
 
 5.  [Proceso](https://github.com/EduardoMatos05/ProyectoFIS/tree/Primera_Entrega/Proceso)
@@ -24,6 +24,6 @@
     -   [Métrica de contribución individual](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/Proceso/metrica_de_contribucion.md)
     
 
-6.  Presentación y video
+6.  [Presentación y video](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/Presentacion_y_video.md)
     
 7.  Assets
