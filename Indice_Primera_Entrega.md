@@ -20,7 +20,6 @@
 
 5.  [Proceso](https://github.com/EduardoMatos05/ProyectoFIS/tree/Primera_Entrega/Proceso)
     -   [Descripción del proceso](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/Proceso/descripcion_del_proceso.md)
-    -   [Gestión del proceso (GitHub Project)](https://github.com/users/EduardoMatos05/projects/2)
     -   [Métrica de contribución individual](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/Proceso/metrica_de_contribucion.md)
     
 
