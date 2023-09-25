@@ -1,3 +1,1 @@
-## priorización
-
 hola
