@@ -8,16 +8,16 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 
 
-![](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EYclo3FWeAxLv4gYnGS4xZcB2xkUz6rJ5rCXJeRNBD8bvw?e=nigeye)
+![Tabla 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EYclo3FWeAxLv4gYnGS4xZcB2xkUz6rJ5rCXJeRNBD8bvw?e=nigeye)
 
 ## Sum of individual points
 
 
-![](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/ERsvqMlGenZAkFh_Emx6HSABl6X22nkG3UsCyjLU6vHfiQ?e=IZPy1b)
+![Tabla 2](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/ERsvqMlGenZAkFh_Emx6HSABl6X22nkG3UsCyjLU6vHfiQ?e=3eJO9H)
 
 ## Percentaje graph
 
 
-![](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EU13Jn_uIQVEoTHmRixycRQBRKgX9w3G2cLG4-QwYOaLkA?e=R2AHX7)
+![Grafica 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EU13Jn_uIQVEoTHmRixycRQBRKgX9w3G2cLG4-QwYOaLkA?e=R2AHX7)
 
 
