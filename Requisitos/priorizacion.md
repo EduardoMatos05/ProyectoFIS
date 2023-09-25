@@ -1,3 +1,0 @@
-## priorización
-
-hola
