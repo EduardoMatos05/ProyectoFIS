@@ -8,7 +8,7 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 
 
-![Tabla 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EYclo3FWeAxLv4gYnGS4xZcB2xkUz6rJ5rCXJeRNBD8bvw?e=nigeye)
+![Tabla 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EYclo3FWeAxLv4gYnGS4xZcB2xkUz6rJ5rCXJeRNBD8bvw?e=0Dsvq7)
 
 ## Sum of individual points
 
