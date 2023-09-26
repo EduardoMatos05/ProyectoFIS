@@ -1,4 +1,4 @@
-## Acerca de
+## About us
 
 |foto| info|
 |--|--|
