@@ -8,16 +8,16 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 
 
-![Tabla 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EYclo3FWeAxLv4gYnGS4xZcB2xkUz6rJ5rCXJeRNBD8bvw?e=0Dsvq7)
+![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega_Eduardo/Images/tabla%20_1.png)
 
 ## Sum of individual points
 
 
-![Tabla 2](https://alumnosuady-my.sharepoint.com/personal/a20200593_alumnos_uady_mx/Documents/tabla%201.png)
+![Tabla 2](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega_Eduardo/Images/tabla_2.png)
 
 ## Percentaje graph
 
 
-![Grafica 1](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20200593_alumnos_uady_mx/EU13Jn_uIQVEoTHmRixycRQBRKgX9w3G2cLG4-QwYOaLkA?e=R2AHX7)
+![Grafica 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega_Eduardo/Images/grafica_1.png)
 
 
