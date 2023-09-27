@@ -21,7 +21,7 @@ Before we started working, as a team we organized by assigning tasks to each tea
 
 ## Project Management
 The next table will explain the project's first “delivery” and the activities, as well as the task assignee or assignees and the tasks value for each one.
-| Task | Asignee | Deadine| Priority |
+| Task | Assignee |Deadline| Priority |
 |--|--|--|--|
 |About| Everyone | Tuesday 26 of September| Low |
 |Product Description|Braulio Cuevas|Tuesday 26 of September|Medium
