@@ -8,17 +8,17 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 
 
-![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/other_artifacts/tabla_1.png)
+![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla_1.png?raw=true)
 
 ## Sum of individual points
 
 
-![Tabla 2](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/other_artifacts/tabla_2.png)
+![Tabla 2](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla_2.png?raw=true)
 
 ## Percentaje graph
 
 
-![Grafica 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/other_artifacts/grafica_1.png)
+![Grafica 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/grafica_1.png?raw=true)
 
 
 
