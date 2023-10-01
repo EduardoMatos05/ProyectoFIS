@@ -8,7 +8,7 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 
 
-![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla_1.png?raw=true)
+![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/Tabla_3.png?raw=true)
 
 ## Sum of individual points
 
