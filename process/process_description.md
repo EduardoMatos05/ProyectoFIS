@@ -44,3 +44,17 @@ For the organization and making of the project we used the next tools:
  - *Microsoft Visual Studio Code*
  - *Microsoft Word*
  - *Excel*
+
+ ## Second Delivery
+ From the sprint that include the months of September-October, our team had to update the way that we were organising our tasks and activities, since it wasn't the most efficient way and didn´t work as expected.
+
+ As said in the last deliver, the working methodology that we used was the Scrum methodology, but in reality we were organising ourselfs based in the Scrum methodology, because even when we didn´t make the usual "Daily Scrum", we still considered the documentation that the methodology used for keeping the track of the project.
+
+ ## Process Description
+ Since the first delivery was made in September 30th, we started by correcting and adjusting some details in the team organization, the first adjust being the Sprint Backlog from the second delivery, after we were informed about what we needed to do, the tasks were assigned in a Word going next, that you can found down below.
+
+ And as we started having weekly reunions with our professor we started having weekly sprints that we showed to him to show the project advance, the weekly sprints backlogs are found also down below.
+
+ (Esto es la ultima parte)
+ (Añadir link del sprint backlog)
+ (Añadir links de los weekly report)
