@@ -68,6 +68,26 @@ For the organization and making of the project we used the next tools:
 
 Where the development team members focused on the making of the project UI by using wireframes in Figma.
 
+## Project Management
+Like the first delivery, the next table will explain the activities that needed to be made, the assignees, the deadline and the priority the activity had as well.
+
+|Task|Assignee|Deadline|Priority|
+| :- | :- | :- | :- |
+|Product Evolution|Everyone|Monday, November 6|Low|
+|Requirements Evolution|Eduardo Matos, Pablo Canto|Saturday, November 4|High|
+|Artifact Refinement |Pablo Canto|Monday, November 6|Medium|
+|Interfaces Design, correspondence and Validation |Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Harrat|Sunday, November 5|High|
+|Project Description and Managment|Pablo Canto|Sunday, November 5|High|
+|Metric Contribution|Eduardo Del Rio|Sunday, November 5|Low|
+|Generic and Specific Competencies|Eduardo Del Rio|Saturday, November 4|Medium|
+|Presentation |Braulio Cuevas|Monday, November 6|Medium|
+|Video|TBD|Monday, November 6|Medium|
+
+## Tools
+We keep using the same tools that we used in the first delivery, with the addition of 2 more, being:
+ - *Figma*
+ - *Discord*
+
 ## Documents and Backlogs
 
 Since we improve the organization of the team to be more formal by using a word document for each week, here is the list of all the documentation related to the organization from the second delivery:
@@ -78,8 +98,8 @@ Since we improve the organization of the team to be more formal by using a word 
 
  - [Sprint Backlog Week #2](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/ETQp8OVQH5xGtYn6TdIZb_oBUSsCjoN-ocWPs1BxLXyDiQ?e=LeUeOS)
 
- - [Sprint Backlog Week #3]()
+ - [Sprint Backlog Week #3](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EYpKpShIAuxDpDLEZtkZqrkBWRmoVmKB0hfijAJsmFJpCw?e=eDIe4m)
 
- - [Sprint Backlog Week #4]()
+ - [Sprint Backlog Week #4](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EXtT3MpTxAFHjv4v79FcN7wBiYWOUgixYzMyUB_la1TACA?e=HVdR1g)
 
  - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
