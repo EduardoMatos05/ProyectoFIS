@@ -76,7 +76,7 @@ Like the first delivery, the next table will explain the activities that needed 
 |Product Evolution|Everyone|Monday, November 6|Low|
 |Requirements Evolution|Eduardo Matos, Pablo Canto|Saturday, November 4|High|
 |Artifact Refinement |Pablo Canto|Monday, November 6|Medium|
-|Interfaces Design, correspondence and Validation |Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Harrat|Sunday, November 5|High|
+|Interfaces Design, correspondence and Validation |Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra|Sunday, November 5|High|
 |Project Description and Managment|Pablo Canto|Sunday, November 5|High|
 |Metric Contribution|Eduardo Del Rio|Sunday, November 5|Low|
 |Generic and Specific Competencies|Eduardo Del Rio|Saturday, November 4|Medium|
@@ -90,7 +90,7 @@ We keep using the same tools that we used in the first delivery, with the additi
 
 ## Documents and Backlogs
 
-Since we improve the organization of the team to be more formal by using a word document for each week, here is the list of all the documentation related to the organization from the second delivery:
+Since we improved the organization of the team to be more formal by using a word document for each week, here is the list of all the documentation related to the organization from the second delivery:
 
  - [Product Backlog](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EWEwDBzRqb9Igm21H0HRjpABLZf9iXeZelMFbhAQ2iR1FA?e=W7FatE)
 
