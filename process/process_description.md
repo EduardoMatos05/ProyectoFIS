@@ -76,8 +76,10 @@ Since we improve the organization of the team to be more formal by using a word 
 
  - [Sprint Backlog Week #1](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EeydQehjC7ZEoMnNwNd5p3ABZYc8VtqiEd6WYrpLzOgctw?e=IjQkMZ)
 
- - [Sprint Backlog Week #2]()
+ - [Sprint Backlog Week #2](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/ETQp8OVQH5xGtYn6TdIZb_oBUSsCjoN-ocWPs1BxLXyDiQ?e=LeUeOS)
 
  - [Sprint Backlog Week #3]()
 
  - [Sprint Backlog Week #4]()
+
+ - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
