@@ -79,9 +79,9 @@ Like the first delivery, the next table will explain the activities that needed 
 |Interfaces Design, correspondence and Validation |Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra|Sunday, November 5|High|
 |Project Description and Managment|Pablo Canto|Sunday, November 5|High|
 |Metric Contribution|Eduardo Del Rio|Sunday, November 5|Low|
-|Generic and Specific Competencies|Eduardo Del Rio|Saturday, November 4|Medium|
-|Presentation |Braulio Cuevas|Monday, November 6|Medium|
-|Video|TBD|Monday, November 6|Medium|
+|Generic and Specific Competencies|Eduardo Del Rio, Eduardo Matos|Saturday, November 4|Medium|
+|Presentation |Everyone|Sunday, November 5|Medium|
+|Video|Eduardo Del Rio|Sunday, November 5|Low|
 
 ## Tools
 We keep using the same tools that we used in the first delivery, with the addition of 2 more, being:
