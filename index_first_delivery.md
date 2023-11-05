@@ -10,7 +10,7 @@
     
 
 3.  [requirements](https://github.com/EduardoMatos05/ProyectoFIS/tree/Primera_Entrega/requirements)
-    -   [functional and non functional requirements table](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/requirements/functional%20and%20non%20functional%20requirements%20(1).pdf)
+    -   [functional and non functional requirements table](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/requirements/functional%20and%20non%20functional%20requirements%20(2).pdf)
     -   [Priorización](https://github.com/EduardoMatos05/ProyectoFIS/blob/Primera_Entrega/requirements/priorization.md)
     
 
