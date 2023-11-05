@@ -49,7 +49,7 @@ For the organization and making of the project we used the next tools:
  ## Second Delivery
  From the sprint that include the months of September-October, our team had to update the way that we were organising our tasks and activities, since it wasn't the most efficient way and didn´t work as expected.
 
- As said in the last deliver, the working methodology that we used was the Scrum methodology, but in reality, we were organising ourselfs based in the Scrum methodology, because even when we didn´t make the usual "Daily Scrum", we still considered the documentation that the methodology used for keeping the track of the project.
+ As said in the last deliver, the working methodology that we used was the Scrum methodology, but in reality, we were organising ourselves based in the Scrum methodology, because even when we didn´t make the usual "Daily Scrum", we still considered the documentation that the methodology used for keeping the track of the project.
 
  ## Process Description
  Since the first delivery was made on September 30th, we started by correcting and adjusting some details in the team organization, the first adjust being the Sprint Backlog from the second delivery, after we were informed about what we needed to do, the tasks were assigned in a Word going next, that you can found down below.
@@ -74,15 +74,15 @@ Like the first delivery, the next table will explain the activities that needed 
 
 |Task|Assignee|Deadline|Priority|
 | :- | :- | :- | :- |
-|Product Evolution|Everyone|Monday, November 6|Low|
+|Product Evolution|Everyone|Monday, November 6|Medium|
 |Requirements Evolution|Eduardo Matos, Pablo Canto|Saturday, November 4|High|
 |Artifact Refinement |Pablo Canto|Monday, November 6|Medium|
 |Interfaces Design, correspondence and Validation |Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra|Sunday, November 5|High|
-|Project Description and Managment|Pablo Canto|Sunday, November 5|High|
-|Metric Contribution|Eduardo Del Rio|Sunday, November 5|Low|
-|Generic and Specific Competencies|Eduardo Del Rio, Eduardo Matos|Saturday, November 4|Medium|
+|Project Description and Managment|Pablo Canto|Sunday, November 5|Medium|
+|Metric Contribution|Eduardo Del Rio|Sunday, November 5|Medium|
+|Generic and Specific Competencies|Eduardo Del Rio, Eduardo Matos|Saturday, November 4|Low|
 |Presentation |Everyone|Sunday, November 5|Medium|
-|Video|Eduardo Del Rio|Sunday, November 5|Low|
+|Video|Everyone|Sunday, November 5|Low|
 
 ## Tools
 We keep using the same tools that we used in the first delivery, with the addition of 2 more, being:
@@ -104,6 +104,3 @@ Since we improved the organization of the team to be more formal by using a word
  - [Sprint Backlog Week #4](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EXtT3MpTxAFHjv4v79FcN7wBiYWOUgixYzMyUB_la1TACA?e=HVdR1g)
 
  - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
-=======
- - *Figma*
-
