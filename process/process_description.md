@@ -14,7 +14,7 @@ Before we started working, as a team we organized by assigning tasks to each tea
  - Pablo Canto: Scrum master/Development team
  - Mauricio Dzay: Development team
  - Lexus Parra: Development team
- - Eduardo del Río: Development team
+ - Eduardo del Río: QA/Development team
  - Rodrigo Alonzo: Development team
  - Braulio Cuevas: Development team
 
@@ -24,7 +24,7 @@ The next table will explain the project's first “delivery” and the activitie
 | Task | Assignee |Deadline| Priority |
 |--|--|--|--|
 |About| Everyone | Tuesday 26 of September| Low |
-|Product Description|Braulio Cuevas|Tuesday 26 of September|Medium
+|Product Description|Braulio Cuevas|Tuesday 26 of September|Medium|
 |Users|Lexus Parra|Tuesday 26 of September|Low|
 |Value Proposal|Rodrigo Alonzo|Tuesday 26 of September|Medium|
 |Functional Requirements and No Functional Requirements|Lexus Parra and Mauricio Dzay|Tuesday 26 of September|High|
@@ -35,6 +35,11 @@ The next table will explain the project's first “delivery” and the activitie
 |Metrics of Individual Contribution|Eduardo del Río|Tuesday 26 of September|Medium|
 |Video|Everyone|Thursday 28 of September|Medium|
 |Presentation|Braulio Cuevas|Thursday 28 of September|Medium|
+|Repository Changes and Update|Assigned Person|Tuesday 19 of October|Medium|
+|Repository Graphics|Assigned Person|Tuesday 19 of October|Medium|
+|Project Icon|Assigned Person|Tuesday 19 of October|Medium|
+|Design Interface|Assigned Person|Tuesday 19 of October|High|
+|Build Interface|Assigned Person|Tuesday 19 of October|High|
 
 ## Tools
 For the organization and making of the project we used the next tools:
@@ -103,3 +108,6 @@ Since we improved the organization of the team to be more formal by using a word
  - [Sprint Backlog Week #4](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EXtT3MpTxAFHjv4v79FcN7wBiYWOUgixYzMyUB_la1TACA?e=HVdR1g)
 
  - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
+=======
+ - *Figma*
+
