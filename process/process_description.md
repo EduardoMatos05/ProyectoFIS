@@ -35,11 +35,7 @@ The next table will explain the project's first “delivery” and the activitie
 |Metrics of Individual Contribution|Eduardo del Río|Tuesday 26 of September|Medium|
 |Video|Everyone|Thursday 28 of September|Medium|
 |Presentation|Braulio Cuevas|Thursday 28 of September|Medium|
-|Repository Changes and Update|Assigned Person|Tuesday 19 of October|Medium|
-|Repository Graphics|Assigned Person|Tuesday 19 of October|Medium|
-|Project Icon|Assigned Person|Tuesday 19 of October|Medium|
-|Design Interface|Assigned Person|Tuesday 19 of October|High|
-|Build Interface|Assigned Person|Tuesday 19 of October|High|
+
 
 ## Tools
 For the organization and making of the project we used the next tools:
