@@ -15,3 +15,7 @@ Some of the most important changes are:
 
 ### **-Another great advance was the realization of the interfaces developed after consolidating the requirements.**
 
+-[Interfaces](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/interfaces.png?raw=true)
+
+-[Workspace in Figma](https://www.figma.com/file/IBvMQLGx13mbhDdYmRxOet/UAY!?type=design&node-id=0%3A1&mode=design&t=d29MJYJAjPiGZNTw-1)
+
