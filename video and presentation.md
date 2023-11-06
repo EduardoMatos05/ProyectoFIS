@@ -10,6 +10,3 @@
 ## Video
 
 [Video Segunda Entrega](https://youtu.be/oppeQu1dNR0)
-
-[link to video](https://youtu.be/BdqXn-t1qiw)
-a
