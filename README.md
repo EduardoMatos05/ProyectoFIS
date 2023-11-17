@@ -1,3 +1,8 @@
+# Video
+
+[https://youtu.be/SaOdiAgUM2E]
+
+
 ## 2.1
 **Knowledge of Tools:**
 It is crucial to familiarize oneself with tools used in the realm of software engineering. This encompasses project management tools, version control, and specific tools for documentation and requirement tracking. Effectively utilizing these tools contributes to efficiency and quality in requirement management.
