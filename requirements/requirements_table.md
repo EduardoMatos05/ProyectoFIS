@@ -5,10 +5,11 @@
 | The user will be able to customize how they receive notifications. |
 | The system will periodically ask questions to determine if the user wishes to continue filtering notifications from certain senders. |
 | The system can be customized (appearance, sounds, backgrounds). |
+||
 | Non-Functional Requirements                 |
 |--------------------------------------------|
 | The user will have no limits on the number of keywords they can enter. |
-|                                            |
+||
 
 
 ## Specifications 
