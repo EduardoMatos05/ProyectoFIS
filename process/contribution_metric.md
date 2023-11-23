@@ -17,3 +17,11 @@ Below is the individual contribution of each team member to the project for each
 ![Tabla 1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla%201_corregida.png?raw=true)
 
 ![Tabla 1.1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla%201.10.png?raw=true)
+
+## Second delivery
+
+
+![Tabla 2](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla%204.png?raw=true)
+
+![Tabla 1.1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/tabla2.1.png?raw=true)
+
