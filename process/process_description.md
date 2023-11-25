@@ -1,5 +1,3 @@
-## Descripción del proceso
-
 ## Work Methodology
 
 The work methodology we used is the Scrum methodology, because, since by promoting the self-organization and an equal rhythm, it acclimates to the project we are developing since by being partial tasks the activities and the advances becomes more dynamic and flexible.
