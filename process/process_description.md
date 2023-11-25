@@ -104,3 +104,8 @@ Since we improved the organization of the team to be more formal by using a word
  - [Sprint Backlog Week #4](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EXtT3MpTxAFHjv4v79FcN7wBiYWOUgixYzMyUB_la1TACA?e=HVdR1g)
 
  - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
+
+## Third Delivery
+For the sprint that include the months of October-November, we focused on finishing the User Interfaces, making the simulations so we could get the feedback for the users and doing the necesary corrections on the repository.
+
+## Description
