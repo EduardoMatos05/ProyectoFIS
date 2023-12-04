@@ -20,17 +20,17 @@
 
 we have a summary of the total CFP of the requirements that we worked on the second sprint, the #E means the total entries of the requirements, and the #X the number of exits,  at the end, we have the total CFP of entries and exits and the sum of the total CFP.
 
-| Requirement                                       | #E | #X | #R | #W | Error messages | Sum (CFP) |
+Since the requirements don´t need a read or a write, we didn´t use the #R and the #W column.
+
+| Requirement                                       | #E | #X | #R | #W | Sum (CFP) |
 |---------------------------------------------------|----|----|----|----|-----------------|-----------|
-| Prioritize Notifications Based on User-Defined Keywords | 2  | 2  | 0  | 0  |             | 4        |
-| Integration with Outlook Email App                | 2  | 2  | 0  | 0  |               | 4        |
-| Customize Notification Preferences                | 2  | 1  | 0  | 0  |               | 3        |
-| Periodic User Confirmation for Sender Filtering   | 1  | 1  | 0  | 0  |             | 2       |
-| Customization of System (Appearance, Sounds, Backgrounds) | 2  | 1  | 0  | 0  |      | 3     |
-| **Total**                                         | 9  | 7  | 0  | 0  |             | 16         |
+| Prioritize Notifications Based on User-Defined Keywords | 2  | 2  | 0  | 0  | 4        |
+| Integration with Outlook Email App                | 2  | 2  | 0  | 0  | 4        |
+| Customize Notification Preferences                | 2  | 1  | 0  | 0  | 3        |
+| Periodic User Confirmation for Sender Filtering   | 1  | 1  | 0  | 0  | 2       |
+| Customization of System (Appearance, Sounds, Backgrounds) | 2  | 1  | 0  | 0  |3     |
+| **Total**                                         | 9  | 7  | 0  | 0  | 16         |
 
-
-The fifth column "error messages" adds an Exit for error/confirmation messages.
 
 **Effort:** 7 PM ( with 7 individuals dedicating 1 month to the sprint.) 
 
