@@ -23,7 +23,7 @@ we have a summary of the total CFP of the requirements that we worked on the sec
 Since the requirements don´t need a read or a write, we didn´t use the #R and the #W column.
 
 | Requirement                                       | #E | #X | #R | #W | Sum (CFP) |
-|---------------------------------------------------|----|----|----|----|-----------------|-----------|
+|---------------------------------------------------|----|----|----|----|-----------|
 | Prioritize Notifications Based on User-Defined Keywords | 2  | 2  | 0  | 0  | 4        |
 | Integration with Outlook Email App                | 2  | 2  | 0  | 0  | 4        |
 | Customize Notification Preferences                | 2  | 1  | 0  | 0  | 3        |
