@@ -32,18 +32,15 @@ we have a summary of the total CFP of the requirements that we worked on the sec
 
 The fifth column "error messages" adds an Exit for error/confirmation messages.
 
-**Effort:** 7 PM (7 persons dedicated 1 month to the sprint) 
+**Effort:** 7 PM (7 persons dedicated 1 month to the sprint,The effort involves 7 PM (Person Months), with 7 individuals dedicating 1 month to the sprint.) 
 
-Regarding salaries, we have a Scrum Master, a QA/Tester, and 5 developers, all with low experience levels. Our salary reference is: [Indeed Salaries](https://mx.indeed.com/career/salaries) 
+Regarding salaries, we have a Scrum Master, a QA/Tester, and 5 developers, all with low experience levels.
+Our salary reference is: [Indeed Salaries](https://mx.indeed.com/career/salaries) 
 **Total Monthly Cost:** $105,393
 Assuming a productivity of 5 function points per month and the cost of having the team for one month is $105,393, the cost per function point would be $21,078.6. Multiplying this cost by the total function points (16), the project cost would be $337,257.6.
 
 Additionally, assuming a productivity of 5 function points per month and a total of 16 function points, the time to complete the project would be 3.2 months.
 
-The effort involves 7 PM (Person Months), with 7 individuals dedicating 1 month to the sprint.
-
-
-Assuming a productivity of 5 function points per month and a total of 16 PF, the project completion time would be 3.2 months.
 
 ### Work Breakdown Structure (WBS)
 
