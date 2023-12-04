@@ -110,14 +110,14 @@ In the project, Boehm model is preferred due to its adaptability to changing req
 For the project interfaces, we began with configuration based on the requirements to ensure consistency and integrity within the project. As the design process unfolded, versioning of the interfaces was carried out with the approval of the entire team. Upon completion, the finalized version was uploaded to the repository."
 ![Interfaces](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/Interfaces.jpg)
 
-- Have all configuration items in the project been clearly identified and labeled? yes
-- Is there an efficient control in place to ensure that only authorized changes are made to the configuration items?
-- Is there an established process for managing versions and facilitating the retrieval of previous versions of the design if needed?
-- Is there a formal process for proposing, reviewing, approving, and implementing changes to the interfaces?
-- Are the reasons and impact of changes adequately documented?
-- Are branches used to develop new features or fixes without affecting the main version of the design?
-- Does the configuration management facilitate effective collaboration among team members?
-- Is the configuration of the design and associated processes adequately documented?
+- Have all configuration items in the project been clearly identified and labeled? Yes
+- Is there an efficient control in place to ensure that only authorized changes are made to the configuration items? Yes
+- Is there an established process for managing versions and facilitating the retrieval of previous versions of the design if needed? No
+- Is there a formal process for proposing, reviewing, approving, and implementing changes to the interfaces? Yes
+- Are the reasons and impact of changes adequately documented? Yes
+- Are branches used to develop new features or fixes without affecting the main version of the design? No
+- Does the configuration management facilitate effective collaboration among team members? Yes
+- Is the configuration of the design and associated processes adequately documented? Yes
 
 #### Use Case Selection and Updating
 The updating and selection of each use case were crucial for describing how the system would be interacted with, ensuring coverage of various possible scenarios. There was always effective communication about significant changes and discussions regarding any potential impact on the design or development of the system.
@@ -125,10 +125,10 @@ The updating and selection of each use case were crucial for describing how the 
 ![Flow Diagram](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/System2.jpg)
 
 
-- Is each software functionality represented as an identifiable use case?
-- Have the limits and scopes of each use case been clearly defined and documented?
-- Have the relevant configuration elements been assigned to each use case?
-- Is there an established process for managing changes in the use cases?
-- Is there a protocol for documenting and approving changes to the configuration associated with a use case?
-- Is each version of a use case clearly identified and documented?
-- Does configuration management facilitate collaboration among team members working on different use cases?
+- Is each software functionality represented as an identifiable use case? Yes
+- Have the limits and scopes of each use case been clearly defined and documented? Yes
+- Have the relevant configuration elements been assigned to each use case? Yes
+- Is there an established process for managing changes in the use cases? No
+- Is there a protocol for documenting and approving changes to the configuration associated with a use case? Yes
+- Is each version of a use case clearly identified and documented? Yes
+- Does configuration management facilitate collaboration among team members working on different use cases? Yes
