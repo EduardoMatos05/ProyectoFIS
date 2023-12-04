@@ -63,7 +63,15 @@ Additionally, assuming a productivity of 5 function points per month and a total
 The Gantt chart represents the project timeline with three stages: analysis, interface design, and user testing (UX).
 
 
-The Gantt chart for the UAY! The project is based on all the activities carried out...
+The Gantt chart for the UAY! The project is based on all the activities carried out:
+The Gantt chart for the UAY! The project is based on all the activities carried out by the collaborative team from the beginning of the project (September 4, 2023) until the present date (December 3, 2023). It consists of three stages in the project development. The first stage covers the analysis, the second stage focuses on interface design, and finally, the third stage encompasses all user testing (UX). 
+  
+The first stage had a duration from September 4, 2023, to September 29 of the current year. During this period, five essential activities were carried out: definition and evolution of requirements (Lexus: 04/09-13/10), prioritization of the method (Matos: 04/09-09/09), process planning (Pablo: 04/09-14/09), product description (Rodrigo: 15/09-24/09), and analysis repository (Eduardo, Mauricio, Braulio: 25/09-29/09). 
+  
+The second stage spanned from October 2 to November 3, 2023, during which six different activities were performed: draft of the interface design (Matos: 02/10-02/10), logo design (Pablo: 09/10-11/10), learning to use the Figma tool (Everyone: 02/10-12/10), applying Figma knowledge in various tests (Lexus, Braulio: 13/10-19/10), creation of the user interface or UI (Rodrigo, Braulio, Mauricio: 20/10-30/10), and design repository (Everyone: 31/10-3/11). 
+  
+Finally, the testing phase began on November 6, 2023, and is scheduled to close on December 10 of the current year. However, the completed parts up to now consist of three activities: user evaluation format (Pablo: 6/11-08/11), application of the interface to users using the previous evaluation format (Everyone: 10/11-16/11), and collection of user experiences or UX (Everyone: 17/11-23/11). 
+
 imagen del gantt
 
 
