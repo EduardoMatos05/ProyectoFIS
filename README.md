@@ -1,6 +1,6 @@
 # Video
 
-[Link](https://youtu.be/SaOdiAgUM2E)
+[Link](https://youtu.be/p5icuniMVfA)
 
 
 
@@ -44,19 +44,24 @@ Additionally, assuming a productivity of 5 function points per month and a total
 
 ### Work Breakdown Structure (WBS)
 
+Represents the breakdown of work within the sprint involving the use case addressed for the development of the interfaces. 
 
 | ID  | Activity                                      | Responsible          | Time  | Cost |
 |-----|-----------------------------------------------|-----------------------|-------|------|
-| 1   | Design Draft.                                 | Eduardo Matos         | 1 week |      |
-| 2   | User links their Outlook (interface).         | Eduardo Matos         | 1 week |      |
-| 2.1 | Allows you to enable and authenticate the user´s email. | Eduardo Matos         | 4 days |      |
-| 2.2 | Correct integration of the software with Outlook. | Pablo Canto           | 3 days |      |
-| 3   | Select keywords to filter.                   | Eduardo Del Río        | 1 week |      |
-| 3.1 | Interface where the user can enter keywords. | Rodrigo Alonzo         | 5 days |      |
-| 3.2 | The interface is tested and functional.      | Braulio Cuevas, Eduardo Del Rio | 2 days |      |
-| 4   | Customize the appearance and notifications.  | Mauricio Villanueva    | 1 week |      |
-| 4.1 | Design the customization interface.          | Mauricio Villanueva    | 3 days |      |
-| 4.2 | Visualization of interface functionalities such as color and theme. | Lexus Parra           | 4 days |      |
+| 1   | Design Draft.                                 | Eduardo Matos.         | 1 day |  $3500    |
+| 2   | User links their Outlook (interface).         | Eduardo Matos, Mauricio Villanueva.         | 1 month | $84314.4  |
+| 2.1 | Allows you to enable and authenticate the user´s email. | Eduardo Matos.         | 15 days |   $42157.2   |
+| 2.2 | Correct integration of the software with Outlook. | Mauricio Villanueva.           | 15 days |   $42157.2   |
+| 3   | Select keywords to filter.                   | Lexus Parra,Rodrigo Alonzo, Braulio Cuevas        | 1 month |    $84314.4  |
+| 3.1 | Interface where the user can enter keywords. | Rodrigo Alonzo, Lexus Parra.         | 20 days |  $56203.98    |
+| 3.2 | The interface is tested and functional.      | Braulio Cuevas,Lexus Parra.  | 10 days |   $28104.51   |
+| 4   | Customize the appearance and notifications.  | Mauricio Villanueva, Braulio Cuevas.    | 1 month | $63235.8 |
+| 4.1 | Design the customization interface.          | Mauricio Villanueva    | 14 days |   $29720.82   |
+| 4.2 | Visualization of interface functionalities such as color and theme. | Braulio Cuevas           | 16 days |   $33514.97   |
+
+
+The breakdown of work in the sprint with the use case addressed for the development of the interfaces is represented in this table. It reflects the Work Breakdown Structure (WBS) applied to the involved use case during the sprint, showcasing the breakdown of various work packages, their assignment to responsible parties, duration, costs for each activity, and their constituent tasks. The use cases within the interfaces were worked on during an average period from October 2nd to October 31st, which also involved learning to use the Figma tool for visual interpretation of the same. 
+
 
 ### Gantt Chart
 
