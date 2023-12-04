@@ -32,7 +32,7 @@ we have a summary of the total CFP of the requirements that we worked on the sec
 
 The fifth column "error messages" adds an Exit for error/confirmation messages.
 
-**Effort:** 7 PM (7 persons dedicated 1 month to the sprint,The effort involves 7 PM (Person Months), with 7 individuals dedicating 1 month to the sprint.) 
+**Effort:** 7 PM ( with 7 individuals dedicating 1 month to the sprint.) 
 
 Regarding salaries, we have a Scrum Master, a QA/Tester, and 5 developers, all with low experience levels.
 Our salary reference is: [Indeed Salaries](https://mx.indeed.com/career/salaries) 
