@@ -72,7 +72,7 @@ The second stage spanned from October 2 to November 3, 2023, during which six di
   
 Finally, the testing phase began on November 6, 2023, and is scheduled to close on December 10 of the current year. However, the completed parts up to now consist of three activities: user evaluation format (Pablo: 6/11-08/11), application of the interface to users using the previous evaluation format (Everyone: 10/11-16/11), and collection of user experiences or UX (Everyone: 17/11-23/11). 
 
-imagen del gantt
+![Diagrama de Gantt](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20201678_alumnos_uady_mx/EYD414jvphNEj0Z0VC9ywikBDxNsvIBC-8hbRM8F5MbugA?e=LLm3Re)
 
 
 ### Software Quality Models - McCall and Boehm
