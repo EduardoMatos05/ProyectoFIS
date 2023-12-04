@@ -108,7 +108,7 @@ In the project, Boehm model is preferred due to its adaptability to changing req
 
 #### Configuration of Project Interfaces
 For the project interfaces, we began with configuration based on the requirements to ensure consistency and integrity within the project. As the design process unfolded, versioning of the interfaces was carried out with the approval of the entire team. Upon completion, the finalized version was uploaded to the repository."
-![Interfaces](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20201678_alumnos_uady_mx/EcO3DH1N1JREq1iI1LH33dwBmYdNsz_mz8V16skHsku1TA?e=nrpyiW)
+![Interfaces](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/Diagrama%20de%20Gantt.jpeg)
 
 - Have all configuration items in the project been clearly identified and labeled? yes
 - Is there an efficient control in place to ensure that only authorized changes are made to the configuration items?
@@ -121,8 +121,8 @@ For the project interfaces, we began with configuration based on the requirement
 
 #### Use Case Selection and Updating
 The updating and selection of each use case were crucial for describing how the system would be interacted with, ensuring coverage of various possible scenarios. There was always effective communication about significant changes and discussions regarding any potential impact on the design or development of the system.
-![Use Diagram](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20201678_alumnos_uady_mx/EXq4tm3mKS1OmYXzBgOh3sQBFdxjNTM4q5jM_Aa__J_50w?e=nWyFvH)
-![Flow Diagram](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20201678_alumnos_uady_mx/EdkDvx22c89OpBspE6TkYywBT5ZNUoe57z5h9lZa3kTTjw?e=EMILrx)
+![Use Diagram](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/System1.jpg)
+![Flow Diagram](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/System2.jpg)
 
 
 - Is each software functionality represented as an identifiable use case?
