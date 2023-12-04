@@ -72,7 +72,7 @@ The second stage spanned from October 2 to November 3, 2023, during which six di
   
 Finally, the testing phase began on November 6, 2023, and is scheduled to close on December 10 of the current year. However, the completed parts up to now consist of three activities: user evaluation format (Pablo: 6/11-08/11), application of the interface to users using the previous evaluation format (Everyone: 10/11-16/11), and collection of user experiences or UX (Everyone: 17/11-23/11). 
 
-![Diagrama de Gantt](https://alumnosuady-my.sharepoint.com/:i:/g/personal/a20201678_alumnos_uady_mx/EYD414jvphNEj0Z0VC9ywikBDxNsvIBC-8hbRM8F5MbugA?e=OqQSsi)
+![Diagrama de Gantt](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/Diagrama%20de%20Gantt.jpeg)
 
 
 ### Software Quality Models - McCall and Boehm
@@ -108,7 +108,7 @@ In the project, Boehm model is preferred due to its adaptability to changing req
 
 #### Configuration of Project Interfaces
 For the project interfaces, we began with configuration based on the requirements to ensure consistency and integrity within the project. As the design process unfolded, versioning of the interfaces was carried out with the approval of the entire team. Upon completion, the finalized version was uploaded to the repository."
-![Interfaces](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/Diagrama%20de%20Gantt.jpeg)
+![Interfaces](https://github.com/EduardoMatos05/ProyectoFIS/blob/Pablo/Artifacts/Interfaces.jpg)
 
 - Have all configuration items in the project been clearly identified and labeled? yes
 - Is there an efficient control in place to ensure that only authorized changes are made to the configuration items?
