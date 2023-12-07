@@ -109,3 +109,35 @@ Since we improved the organization of the team to be more formal by using a word
 For the sprint that include the months of October-November, we focused on finishing the User Interfaces, making the simulations so we could get the feedback for the users and doing the necesary corrections on the repository.
 
 ## Description
+For the team organization, we agreed on the tasks we will carry out using the group chat, we wrote down the tasks that are needed for the deliver, and each one wrote which task can they do.
+
+After we all agreed on the tasks divition, we started working individually as we usually did on the other delivers, when someone made some progress they adviced on the group chat, so everyone on the team have a motion of each task.
+
+## Tools
+
+Since it´s the last update on the repository, the tools that we used during all the sprints in the end are the next ones:
+
+ - *GitHub*
+ - *WhatsApp*
+ - *StackEdit*
+ - *Microsoft Visual Studio Code*
+ - *Microsoft Word*
+ - *Excel*
+ We used excel to help us with the individual metrics, the tasks were given a value, so by using it we had a control on the total contribution of each team member.
+ - *Figma*
+ - *Discord*
+
+ ## Team members roles
+ Since we didn´t make any changes on the team´s roles, they stayed the same as the last deliver:
+
+ - Eduardo Matos: Product owner
+ - Pablo Canto: Scrum master
+ - Mauricio Dzay: Development team
+ - Lexus Parra: Development team
+ - Eduardo del Río: Development team / QA
+ - Rodrigo Alonzo: Development team
+ - Braulio Cuevas: Development team
+
+ ## Project Management
+
+ On the next table, as same as the deliveries before this one, it will explain the activities that were realized on the sprint, with their respective asignee, start date, end date, endline and value.
