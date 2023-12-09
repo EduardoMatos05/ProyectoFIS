@@ -140,4 +140,20 @@ Since it´s the last update on the repository, the tools that we used during all
 
  ## Project Management
 
- On the next table, as same as the deliveries before this one, it will explain the activities that were realized on the sprint, with their respective asignee, start date, end date, endline and value.
+ On the next table, as same as the deliveries before this one, it will explain the activities that were realized on the sprint, with their respective asignee, start date, end date, endline and priority.
+
+ |Task|Assignee|Start|End|Priority|
+ | :- | :- | :- | :- |:- |
+ | Product Evolution, users and innovation | Eduardo Del Rio | Thursday, November 16 | Thursday, November 23 | Medium |
+ | Requirements Final Evolution| Eduardo Matos | Thursday, November 16 | Thursday, November 23 | High |
+ | Artifact Refinement | Pablo Canto | Thursday, November 23 | Saturday, December 9 | Low |
+ | Interfaces Evolution and correspondence | Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra | Thursday, November 16 | Thursday, November 23 | High |
+ | Suggestions | Eduardo Matos, Pablo Canto | Thursday, November 23 |  Saturday, December 9 | Medium |
+ | Test | Everyone | Thursday, 30 of November | Friday, December 1 | Medium  |
+ | Project Description and Managment   | Pablo Canto | Thursday, 30 of November | Saturday, December 9 | Medium |
+ | Metric Contribution| Eduardo Del Rio   | Thursday, 30 of November | Saturday, December 9 | Low |
+ | Generic and Specific Competencies | Eduardo Del Rio   | Thursday, November 16 | Thursday, November 23 | Low |
+ | Presentation | Everyone | Thursday, November 30 | Saturday, December 9 | Medium |
+ | Video | Everyone | Saturday, December 9 | Sunday, December 10  | High |
+
+ As shown on the table, there might be some time discrepancies between some tasks, this happened due to an endline extention, as well as some tasks were added to the deliver, so the video and presentation also had to be edited to include the new information.
