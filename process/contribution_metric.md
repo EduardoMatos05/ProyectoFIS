@@ -35,3 +35,9 @@ Below is the individual contribution of each team member to the project for each
 <br>
 
 # Final metric contribution
+
+<br>
+
+![grafica final](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/finalContribution.png?raw=true)
+
+![Tabla final](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/finalScore.png?raw=true)
