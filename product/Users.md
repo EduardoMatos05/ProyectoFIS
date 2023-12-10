@@ -1,11 +1,8 @@
-Our project is focused on helping students from the Autonomous University of Yucatán of any semester and faculty, who are interested in managing their notifications and email preferences.
+Our project is designed to assist students from the Universidad Autónoma de Yucatán at any semester and faculty who are interested in managing their notifications appropriately and having easier and more intuitive access to whatever they need from their emails.
 
-Primary Users
---- 
-- students in higher semesters interested in receiving only emails about their practices, conferences and related
-- teachers who want to filter emails from their students or university notifications
+**Primary Users:**
+Students from any UADY faculty interested in receiving notifications regarding lectures and academic-related matters.
 
-Secondary/Potential Users
----
-- First semester students who want to filter emails about their registration, schedule and class codes
-- General public who needs to filter notifications from their work email
+**Secondary/Potential Users:**
+Teachers who need to filter notifications and emails from their students or the university, enabling them to efficiently manage information relevant to their academic work.
+The general public in need of filtering notifications from their work email.
