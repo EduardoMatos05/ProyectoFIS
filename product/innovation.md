@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://www.eoi.es/blogs/redinnovacionEOI/files/2015/09/kk.jpg" alt="Descripción de la imagen" width="500">
+<img src="https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/Logo_UAY!.jpg?raw=true" alt="Descripción de la imagen" width="450">
 
 <br>
 
@@ -11,6 +11,9 @@
   
 - **Notification customization:** 
   - Allows users to customize notifications to their individual preferences and needs, ensuring they don't miss any relevant informational messages and facilitating a better interaction.
+
+- **User comfort:** 
+  - The tests demonstrate that the software is comfortable and easy to use due to the optimal design of the interfaces, enabling quick understanding compared to others that could potentially be frustrating.
 
 <br>
 
