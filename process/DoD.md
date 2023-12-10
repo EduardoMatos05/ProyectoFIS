@@ -1,5 +1,7 @@
 # Definition Of Done
 
+The requirements must be demonstrated within the interface design phase
+
 #### User Experience:
 
 1. **Outlook Integration:**
