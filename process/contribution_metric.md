@@ -28,9 +28,9 @@ Below is the individual contribution of each team member to the project for each
 ## Third Delivery
 
 
-![Tabla 3](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/table%203.0.png?raw=true)
+![Tabla 3](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/table%203.00.png?raw=true)
 
-![Tabla 3.1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/table%203.1.png?raw=true)
+![Tabla 3.1](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/table%203.10.png?raw=true)
 
 <br>
 
