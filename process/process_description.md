@@ -144,7 +144,7 @@ Since it´s the last update on the repository, the tools that we used during all
 
  |Task|Assignee|Start|End|Priority|
  | :- | :- | :- | :- |:- |
- | Product Evolution, users and innovation | Eduardo Del Rio | Thursday, November 16 | Thursday, November 23 | Medium |
+ | Product Evolution, users and innovation | Eduardo Del Rio, Mauricio Villanueva, Braulio Cuevas | Thursday, November 16 | Thursday, November 23 | Medium |
  | Requirements Final Evolution| Eduardo Matos | Thursday, November 16 | Thursday, November 23 | High |
  | Artifact Refinement | Pablo Canto | Thursday, November 23 | Saturday, December 9 | Low |
  | Interfaces Evolution and correspondence | Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra | Thursday, November 16 | Thursday, November 23 | High |
@@ -152,7 +152,7 @@ Since it´s the last update on the repository, the tools that we used during all
  | Test | Everyone | Thursday, 30 of November | Friday, December 1 | Medium  |
  | Project Description and Managment   | Pablo Canto | Thursday, 30 of November | Saturday, December 9 | Medium |
  | Metric Contribution| Eduardo Del Rio   | Thursday, 30 of November | Saturday, December 9 | Medium |
- | Generic and Specific Competencies | Eduardo Del Rio, Lexus Parra | Thursday, November 16 | Thursday, November 23 | Low |
+ | Generic and Specific Competencies | Eduardo Del Rio, Lexus Parra | Thursday, November 16 | Thursday, November 23 | Medium |
  | Presentation | Everyone | Thursday, November 30 | Saturday, December 9 | Medium |
  | Video | Everyone | Saturday, December 9 | Sunday, December 10  | High |
 
