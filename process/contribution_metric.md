@@ -8,7 +8,7 @@ We manage the project through:  [Project](https://github.com/users/EduardoMatos0
 
 Below is the individual contribution of each team member to the project for each delivery, as well as a representation of the cumulative score for each one across the three deliveries.
 
-
+**When a task has more than one responsible** party, the value of the task isn't divided but rather multiplied. For example, if a task has a value of 2 and there are two responsible parties, each one receives 2 points instead of 1 each.
 
 
 ## First Delivery
