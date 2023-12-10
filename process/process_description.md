@@ -119,13 +119,18 @@ Since it´s the last update on the repository, the tools that we used during all
 
  - *GitHub*
  - *WhatsApp*
+
+ As our principal channel of communication, we made a gruop chat were we only posted what tasks are needed for the deliver, who is going to be the asignee, and more related to the organization for the delivers, also the team agreed on everytime a progress was made, it was notified to all the teams so everyone could check it out and give their respective opinions.
  - *StackEdit*
  - *Microsoft Visual Studio Code*
  - *Microsoft Word*
  - *Excel*
+
  We used excel to help us with the individual metrics, the tasks were given a value, so by using it we had a control on the total contribution of each team member.
  - *Figma*
  - *Discord*
+
+ Even though it wasn't the principal communication method, sometimes we required to realize meetings about the project advances and organization, we used this tool instead of others like Microsoft Teams because every team member felt more comfortable using it, and it was used when a great part of the team didn't understand something about the project or when we needed to clarify something.
 
  ## Team members roles
  Since we didn´t make any changes on the team´s roles, they stayed the same as the last deliver:
