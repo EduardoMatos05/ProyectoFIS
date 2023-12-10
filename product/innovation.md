@@ -14,4 +14,4 @@
 
 <br>
 
-The majority of these points might not be considered innovations, but we see them as such because by being able to focus on a specific community, in this case, the UADY students, we are innovating by enhancing these functions designed only for this user group. This allows us to provide better and more focused attention to the users.
+The majority of these points might not be considered news, but we see them as such because by being able to focus on a specific community, in this case, the UADY students, we are innovating by enhancing these functions designed only for this user group. This allows us to provide better and more focused attention to the users.
