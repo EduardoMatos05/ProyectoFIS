@@ -1,3 +1,6 @@
+ # Users
+
+
 Our project is designed to assist students from the Universidad Autónoma de Yucatán at any semester and faculty who are interested in managing their notifications appropriately and having easier and more intuitive access to whatever they need from their emails.
 
 **Primary Users:**
