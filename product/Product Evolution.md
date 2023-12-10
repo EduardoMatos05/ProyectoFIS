@@ -15,8 +15,8 @@ In this section, the evolution of the product is seen through the most relevant 
 
 ## Second Delivery → Third Delivery
 
-| Encabezado 1 | Encabezado 2 |
+| Changes | Evidence |
 |--------------|--------------|
 | The requirements section was improved by reassessing their functionality type within the software. The format was also restructured to provide a better description for each one, making them clearer and more understandable.  | -[Previous version](https://github.com/EduardoMatos05/ProyectoFIS/blob/Segunda_Entrega/requirements/requirements_table.md) <br> -[Current version](https://github.com/EduardoMatos05/ProyectoFIS/blob/Tercera_Entrega/requirements/requirements_table.md)     |
 | The creation of the interactive prototype of the interfaces on Figma.  | -[Interactive prototype](https://www.figma.com/proto/IBvMQLGx13mbhDdYmRxOet?node-id=0%3A1)    |
-| The incorporation of a format used for testing, in addition to adding the section of suggestions, which are the results obtained from users during the tests.   | Links    |
+| The incorporation of a format used for testing, in addition to adding the section of suggestions, which are the results obtained from users during the tests.   | -[Testing format](https://github.com/EduardoMatos05/ProyectoFIS/blob/Eduardo/other%20artifacts/Formato_Simulaciones.docx)   |
