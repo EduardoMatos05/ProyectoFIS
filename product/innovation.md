@@ -6,6 +6,8 @@
 
 <br>
 
-**The efficient email filtering capability:** The ability to organize specific emails based on a personalized search where the user can choose keywords related to their interests such as meetings, events, scholarships, or any other type of message they want to prioritize.
-
-**Notification customization:** Allows users to tailor notifications to their individual preferences and needs, ensuring they don't miss any relevant informational messages and facilitating a better interaction.
+- **The efficient email filtering capability:** 
+  - The ability to organize specific emails based on a personalized search where the user can choose keywords related to their interests such as meetings, events, scholarships, or any other type of message they want to prioritize.
+  
+- **Notification customization:** 
+  - Allows users to customize notifications to their individual preferences and needs, ensuring they don't miss any relevant informational messages and facilitating a better interaction.
