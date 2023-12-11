@@ -104,3 +104,61 @@ Since we improved the organization of the team to be more formal by using a word
  - [Sprint Backlog Week #4](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/EXtT3MpTxAFHjv4v79FcN7wBiYWOUgixYzMyUB_la1TACA?e=HVdR1g)
 
  - [Requirements Meeting Log](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a20201678_alumnos_uady_mx/Eb1QI9tDeN1KmUMv-QTzXJkB5PcP3dex-ydqEOx6acBRQQ?e=VKPil0)
+
+## Third Delivery
+For the sprint that include the months of October-November, we focused on finishing the User Interfaces, making the simulations so we could get the feedback for the users and doing the necesary corrections on the repository.
+
+## Description
+For the team organization, we agreed on the tasks we will carry out using the group chat, we wrote down the tasks that are needed for the deliver, and each one wrote which task can they do.
+
+After we all agreed on the tasks divition, we started working individually as we usually did on the other delivers, when someone made some progress they adviced on the group chat, so everyone on the team have a motion of each task.
+
+## Tools
+
+Since it´s the last update on the repository, the tools that we used during all the sprints in the end are the next ones:
+
+ - *GitHub*
+ - *WhatsApp*
+
+ As our principal channel of communication, we made a gruop chat were we only posted what tasks are needed for the deliver, who is going to be the asignee, and more related to the organization for the delivers, also the team agreed on everytime a progress was made, it was notified to all the teams so everyone could check it out and give their respective opinions.
+ - *StackEdit*
+ - *Microsoft Visual Studio Code*
+ - *Microsoft Word*
+ - *Excel*
+
+ We used excel to help us with the individual metrics, the tasks were given a value, so by using it we had a control on the total contribution of each team member.
+ - *Figma*
+ - *Discord*
+
+ Even though it wasn't the principal communication method, sometimes we required to realize meetings about the project advances and organization, we used this tool instead of others like Microsoft Teams because every team member felt more comfortable using it, and it was used when a great part of the team didn't understand something about the project or when we needed to clarify something.
+
+ ## Team members roles
+ Since we didn´t make any changes on the team´s roles, they stayed the same as the last deliver:
+
+ - Eduardo Matos: Product owner
+ - Pablo Canto: Scrum master
+ - Mauricio Dzay: Development team
+ - Lexus Parra: Development team
+ - Eduardo del Río: Development team / QA
+ - Rodrigo Alonzo: Development team
+ - Braulio Cuevas: Development team
+
+ ## Project Management
+
+ On the next table, as same as the deliveries before this one, it will explain the activities that were realized on the sprint, with their respective asignee, start date, end date, endline and priority.
+
+ |Task|Assignee|Start|End|Priority|
+ | :- | :- | :- | :- |:- |
+ | Product Evolution, users and innovation | Eduardo Del Rio, Mauricio Villanueva, Braulio Cuevas | Thursday, November 16 | Thursday, November 23 | Medium |
+ | Requirements Final Evolution| Eduardo Matos | Thursday, November 16 | Thursday, November 23 | High |
+ | Artifact Refinement | Pablo Canto | Thursday, November 23 | Saturday, December 9 | Low |
+ | Interfaces Evolution and correspondence | Rodrigo Alonzo, Mauricio Villanueva, Braulio Cuevas, Lexus Parra | Thursday, November 16 | Thursday, November 23 | High |
+ | Suggestions | Eduardo Matos, Pablo Canto, Rodrigo Alonso | Thursday, November 23 |  Saturday, December 9 | Medium |
+ | Test | Everyone | Thursday, 30 of November | Friday, December 1 | Medium  |
+ | Project Description and Managment   | Pablo Canto | Thursday, 30 of November | Saturday, December 9 | Medium |
+ | Metric Contribution| Eduardo Del Rio   | Thursday, 30 of November | Saturday, December 9 | Medium |
+ | Generic and Specific Competencies | Eduardo Del Rio, Lexus Parra | Thursday, November 16 | Thursday, November 23 | Medium |
+ | Presentation | Everyone | Thursday, November 30 | Saturday, December 9 | Medium |
+ | Video | Everyone | Saturday, December 9 | Sunday, December 10  | High |
+
+ As shown on the table, there might be some time discrepancies between some tasks, this happened due to an endline extention, as well as some tasks were added to the deliver, so the video and presentation also had to be edited to include the new information.
