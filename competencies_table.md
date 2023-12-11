@@ -8,3 +8,5 @@
 |-----------------------------------------------------|-----------------------------------------------|
 | **Desicion making:** The ability to make decisions based on the situation for an more efficient work. | **Figma:** Acquire knowledge to develop low, medium and high fidelity software interfaces with the purpose of showing the functionality established requirements. |
 | **Creative thinking:** Ability to generate ideas that solve our objectives and help in the development of interfaces | 
+|-----------------------------------------------------|-----------------------------------------------|
+|    **Problem solving:** Although to a lesser extent, the team faced some organizational issues, but they were able to resolve them through teamwork and individual efforts, applying a problem solving mindset.         |   **Figma Prototype:** In this latest delivery, the team learned the principles of the Figma prototype tool to link the interfaces and perform tests with users.                            |
